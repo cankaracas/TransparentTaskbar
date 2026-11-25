@@ -1,0 +1,24 @@
+# Compiled binaries and build artifacts
+bin/
+obj/
+*.obj
+*.lib
+*.exp
+*.pdb
+*.dll
+*.exe
+
+# Logs and temporary captures
+*.log
+*.bmp
+*.png
+*.jpg
+
+# Environment and secrets
+.env
+.env.*
+
+# IDE / MSVC user files
+.vs/
+*.user
+*.suo
